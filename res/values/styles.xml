@@ -473,7 +473,7 @@
     </style>
 
     <style name="LockPatternStyle.Dark.Work">
-        <item name="*android:regularColor">@*android:color/white</item>
+        <item name="*android:regularColor">@*android:color/accent_device_default_light</item>
     </style>
 
     <style name="LockPatternStyle.Unlock">
